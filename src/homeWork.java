@@ -19,7 +19,8 @@ public class homeWork {
         System.out.println();
 
         //задача 4
-        for (int i = -10; i <= 10; i++) {
+
+        for (int i = 10; i >= -10; i--) {
             System.out.println(i);
         }
         System.out.println();
